@@ -4,6 +4,7 @@ using System.Web.ModelBinding;
 
 namespace PartsUnlimited.Models
 {
+    //xhangein Order 2
     //ChangeinMyOrder
     //[Bind(Include = "FirstName,LastName,Address,City,State,PostalCode,Country,Phone,Email")]
     public class Order
